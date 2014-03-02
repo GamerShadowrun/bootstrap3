@@ -1,6 +1,7 @@
+body{background-color:#e8e8e8;color:#2c2c2c;font-family:Helvetica,Arial,serif}
 footer{text-align:center}
-h1{text-align:center;text-color:#525252}
-h2{text-align:center}
+h1{font-size:5em;text-align:center;text-color:#525252}
+h2{font-size:3em;text-align:center;text-color:#525252}
 p{font-size:1.3em;text-align:center}
 nav{text-align:center}
 nav ul li{display:inline-block;font-size:2em;padding:0 1em 0 0}
